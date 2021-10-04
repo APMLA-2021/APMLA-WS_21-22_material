@@ -10,9 +10,9 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**Lectures**:  Thursdays 14:15-16pm in presence (if possible), alternatively online (in case the url to the class will be added here). 
+**Lectures**:  Thursdays 14:15-16pm  **online** (the zoom link to the class will be added here). 
 
-**Tutorials**: Fridays 14:16-16.00pm in presence (if possible), alternatively online (in case the url to the class will be added here). 
+**Tutorials**: Fridays 14:16-16.00pm **in presence** at **A301** (Sand). 
 
 **Feedback**: after every lecture you are free to give a feedback.
 
