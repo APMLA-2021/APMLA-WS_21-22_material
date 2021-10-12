@@ -10,11 +10,13 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (4.10.21)**: the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
+**NEWS (12.10.21)**: the tutorials (Fridays) have been shifted to the 16-18 time slot (still on Fridays and in person at A301).
+
+NEWS (4.10.21): the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
 
 **Lectures**:  Thursdays 14:15-16pm  **online** (the zoom link to the class will be added here). 
 
-**Tutorials**: Fridays 14:16-16.00pm **in presence** at **A301** (Sand). 
+**Tutorials**: Fridays 16.00-18.00pm **in presence** at **A301** (Sand). (To be coordinated with the TA for the starting time at 16.00 or 16.15).
 
 **Feedback**: after every lecture you are free to give a feedback.
 
