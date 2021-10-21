@@ -14,7 +14,7 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 NEWS (4.10.21): the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
 
-**Lectures**:  Thursdays 14:15-16pm  **online** (the zoom link to the class will be added here). 
+**Lectures**:  Thursdays 14:15-16pm  **online** [here](https://zoom.us/j/94529176606?pwd=cjNVTitKOGV5V0o3UUJabDhGSDZJZz09), password: 211021. 
 
 **Tutorials**: Fridays 16.00-18.00pm **in presence** at **A301** (Sand). (To be coordinated with the TA for the starting time at 16.00 or 16.15).
 
