@@ -1,0 +1,48 @@
+NAME: Pizza size data
+
+TYPE: Designed experiment 
+
+SIZE: 250 variables, 4 variables (plus an identifier) 
+
+ARTICLE TITLE: Assessing claims made by a pizza chain
+
+DESCRIPTIVE ABSTRACT:
+The data give the diameters of 250 pizzas, 125 each from two pizza chains, for a variety of crust types and toppings.  The data are used by a pizza chain to make claims about the size of their pizzas relative to those of another pizza chain.
+
+SOURCES: 
+The data are publicly available, and were obtained from: https://protect-us.mimecast.com/s/EJNGBkfq8naqF7?domain=eagleboys.com.au, accessed 29 August 2011.
+
+VARIABLE DESCRIPTIONS:
+A header line contains the names of the variables.  Each case has one line in the data file.  The data are comma delimited.  There are no missing values (though pizzas with ID 192 and 192 do not appear in the data file at all).
+
+ID:  An identifier
+
+Store:  The pizza store/company; one of Dominos or EagleBoys
+
+CrustDescription:  The crust type for the pizza; one of DeepPan, ClassicCrust (Domino's only), MidCrust (Domino's only), ThinNCrispy (Eagle Boys only) or ThinCrust (Eagle Boys only)
+
+Topping: The pizza topping; one of Hawaiian, BBQMeatlovers, Supreme (Domino's only) or SuperSupremo (Eagle Boys only).
+
+Diameter:  The pizza diameter, in centimetres
+
+SPECIAL NOTES:
+The data have been intentionally provided needing some alterations, because this is how the data are made available from the source.  We recommend the following.
+
+* The variable CrustDescription uses the terms used by the two pizza companies, which are not the same.  Relabel the CrustDescription variable as Crust, and use the terminology Mid (for MidCrust and ClassicCrust) and Thin (for ThinNCrispy and ThinCrust).
+
+* Similarly, the variable Topping uses company-specific terminology.  We recommend using Supreme to refer to the Supreme (Domino's) and Super Supremo (Eagle Boys) pizzas.
+
+Observation 192 and 193 are missing completely, for unknown reasons.
+
+STORY BEHIND THE DATA:
+The data come from a well-publicised advertising campaign in Australia, where one company (Eagle Boys Pizzas) claim their pizzas a bigger than those from another company (Domino's). A number of clams are made on the advertising campaign webpage, and these claims are assessed using data made publicly available by Eagle Boys.  The two most obvious claims are (i) Eagle Boys large pizzas are bigger than Domino's large pizzas; and (ii) Eagle Boys large pizzas are 12 inches in diameter.
+
+PEDAGOGICAL NOTES:
+These data can be used for teaching research design, one- and two-sample t-tests, analysis of variance, and to show the importance of introductory data analysis.  The data can also be used to move students beyond basics analysis into interpretation and reporting, and to tap students' creative potential. 
+
+SUBMITTED BY:
+Name: Peter K. Dunn
+Affiliation: University of the Sunshine Coast
+Surface address: Locked Bag 4, Maroochydore DC, Queensland �4558, Australia 
+e-mail address: pdunn2@usc.edu.au
+
