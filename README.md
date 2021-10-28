@@ -20,7 +20,7 @@ NEWS (4.10.21): the theory part of the class (Thursdays) will take place online 
 
 **Feedback**: after every lecture you are free to give a feedback [here](https://forms.gle/PFRDSzqCtPphg1E18).
 
-**Lecture-free days**: Friday, from Dec 24th 2021 bis Sat Jan 8th 2022 (Weihnachtspause)  
+**Lecture-free days**: Friday, from Dec 24th 2021 bis Sat Jan 8th 2022 (Weihnachtspause). The lecture on Thursday Dec 23rd will **NOT** take place.   
 
 **Prerequisites**: all the previous knowledge required by the class Probabilistic Machine Learning applies here too. Nothing extra is needed, so if you are following that class, you are good to go here too.
 There will be some overlapping contents for sure between the two classes, although my class is more focused on the application side.
