@@ -10,11 +10,19 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (12.10.21)**: the tutorials (Fridays) have been shifted to the 16-18 time slot (still on Fridays and in person at A301).
+**NEWS (02.11.21)**: 
+1. Temptative **exam dates** are: 
+- Thursday, 10.02.22 
+- Monday, 11.04.22 (Nachklausur)
+These are waiting for confirmation of room availability.  
+
+2. The **time** of the Thursday lecture has been anticipated by 15mins, so that we start at 14.00 (instead of 14.15). The class will thus finish at 15.45 (instead of 16.00). 
+
+NEWS (12.10.21): the tutorials (Fridays) have been shifted to the 16-18 time slot (still on Fridays and in person at A301).
 
 NEWS (4.10.21): the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
 
-**Lectures**:  Thursdays 14:15-16pm  **online** [here](https://zoom.us/j/94529176606?pwd=cjNVTitKOGV5V0o3UUJabDhGSDZJZz09), password: 211021. 
+**Lectures**:  Thursdays **14:00-15.45 pm**  **online** [here](https://zoom.us/j/94529176606?pwd=cjNVTitKOGV5V0o3UUJabDhGSDZJZz09), password: 211021. 
 
 **Tutorials**: Fridays 16.00-18.00pm **in presence** at **A301** (Sand). (To be coordinated with the TA for the starting time at 16.00 or 16.15).
 
