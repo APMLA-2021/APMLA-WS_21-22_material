@@ -13,7 +13,8 @@ For any general question about the course, use GitHub issues. Before posting, pl
 **NEWS (02.11.21)**: 
 1. Temptative **exam dates** are: 
 - Thursday, 10.02.22 
-- Monday, 11.04.22 (Nachklausur)
+- Monday, 11.04.22 (Nachklausur)  
+
 These are waiting for confirmation of room availability.  
 
 2. The **time** of the Thursday lecture has been anticipated by 15mins, so that we start at 14.00 (instead of 14.15). The class will thus finish at 15.45 (instead of 16.00). 
