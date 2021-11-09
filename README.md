@@ -19,7 +19,7 @@ These are waiting for confirmation of room availability.
 
 2. The **time** of the Thursday lecture has been anticipated by 15mins, so that we start at 14.00 (instead of 14.15). The class will thus finish at 15.45 (instead of 16.00). 
 
-NEWS (12.10.21): the tutorials (Fridays) have been shifted to the 16-18 time slot (still on Fridays and in person at A301).
+NEWS (12.10.21): the tutorials (Fridays) have been shifted to the 16.15-17.45 time slot (still on Fridays and in person at A301).
 
 NEWS (4.10.21): the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
 
