@@ -10,10 +10,10 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (02.11.21)**: 
-1. Tentative **exam dates** are: 
-- Thursday, 10.02.22 
-- Monday, 11.04.22 (Nachklausur)  
+**NEWS (10.11.21)**: 
+1. Exam dates are **confirmed**: 
+- Thursday, 10.02.22, 14.00-16.00, room N2 (Klausur). 
+- Monday, 11.04.22, 13.45-15.45, room D4A19 (Nachklausur). 
 
 These are waiting for confirmation of room availability.  
 
