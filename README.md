@@ -10,6 +10,8 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
+**NEWS (18.11.21)**: please informally register to the class [here](https://forms.gle/mNpcwn9xRjCG23RR7). This is mainly needed to have the university collecting feedback about the class.
+
 **NEWS (10.11.21)**: 
 1. Exam dates are **confirmed**: 
 - Thursday, 10.02.22, 14.00-16.00, room N2 (Klausur). 
