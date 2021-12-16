@@ -10,9 +10,13 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (18.11.21)**: please informally register to the class [here](https://forms.gle/mNpcwn9xRjCG23RR7). This is mainly needed to have the university collecting feedback about the class.
+**NEWS (16.12.21)**: Assignment has been uploaded and is ready to be tackled! 
+Please use the pseudo-code that you find inside the Assignment folder as a template to write the solutions, rename it as surname_name_A_2022.ipynb (if you are submitting by yourself, otherwise surname1_name1_surname2_name2_A_2022.ipynb if you are submitting in a 2-people group. Similarly, please upload a unique .zip file containing the notebook and in case additional material (e.g. figures), again using the format surname_name_A_2022.zip (and similar for groups of 2 people).
+The assignement should be submitted at this submission [form](https://forms.gle/dTc5SsWBcXSpB97Q6). Teams can be made of 1 or 2 people. 
 
-**NEWS (10.11.21)**: 
+**Submission deadline**: Friday 21.01.22 (24.00pm).
+
+NEWS (10.11.21): 
 1. Exam dates are **confirmed**: 
 - Thursday, 10.02.22, 14.00-16.00, room N2 (Klausur). 
 - Monday, 11.04.22, 13.45-15.45, room D4A19 (Nachklausur). 
