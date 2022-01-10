@@ -10,7 +10,11 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (16.12.21)**: Assignment has been uploaded and is ready to be tackled! 
+**NEWS (10.01.22)**: Given the current covid-19 situation, we will have ALL the remaining the TUTORIALS online, starting from Friday 14.01.22 (included).
+The zoom link is [here](https://zoom.us/j/98932703601), password: 140122.  
+
+
+NEWS (16.12.21): Assignment has been uploaded and is ready to be tackled! 
 Please use the pseudo-code that you find inside the Assignment folder as a template to write the solutions, rename it as surname_name_A_2022.ipynb (if you are submitting by yourself, otherwise surname1_name1_surname2_name2_A_2022.ipynb if you are submitting in a 2-people group. Similarly, please upload a unique .zip file containing the notebook and in case additional material (e.g. figures), again using the format surname_name_A_2022.zip (and similar for groups of 2 people).
 The assignement should be submitted at this submission [form](https://forms.gle/dTc5SsWBcXSpB97Q6). Teams can be made of 1 or 2 people. 
 
@@ -29,9 +33,11 @@ NEWS (12.10.21): the tutorials (Fridays) have been shifted to the 16.15-17.45 ti
 
 NEWS (4.10.21): the theory part of the class (Thursdays) will take place online on zoom. The tutorials (Fridays) instead will take place in presence (see below).
 
-**Lectures**:  Thursdays **14:00-15.45 pm**  **online** [here](https://zoom.us/j/94529176606?pwd=cjNVTitKOGV5V0o3UUJabDhGSDZJZz09), password: 211021. 
+**Lectures**:  Thursdays **14:00-15.45 pm**  **online** [here](https://zoom.us/j/94529176606), password: 211021. 
 
 **Tutorials**: Fridays 16.00-18.00pm **in presence** at **A301** (Sand). (To be coordinated with the TA for the starting time at 16.00 or 16.15).
+**NEWS (10.01.22)**: we will have ALL the remaining the TUTORIALS online, starting from Friday 14.01.22 (included).
+The zoom link is [here](https://zoom.us/j/98932703601), password: 140122.  
 
 **Feedback**: after every lecture you are free to give a feedback [here](https://forms.gle/1mnCPAxVG1pqkMks6).
 
