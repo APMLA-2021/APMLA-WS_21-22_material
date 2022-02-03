@@ -23,7 +23,7 @@ The assignement should be submitted at this submission [form](https://forms.gle/
 NEWS (10.11.21): 
 1. Exam dates are **confirmed**: 
 - Thursday, 10.02.22, 14.00-16.00, room N2 (Klausur). 
-- Monday, 11.04.22, 13.45-15.45, room D4A19 (Nachklausur). 
+- Monday, 11.04.22, 13.45-15.45, room  **A3M03** (instead of D4A19, news: 3.2.22) (Nachklausur). 
 
 These are waiting for confirmation of room availability.  
 
