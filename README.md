@@ -10,7 +10,9 @@ For any general question about the course, use GitHub issues. Before posting, pl
 
 **Plan**:  Thu 21st Oct  2021 - Fry 11th Feb 2022, 14 weeks, 2+2 hr/week, 14 weeks, 56hr
 
-**NEWS (10.01.22)**: Given the current covid-19 situation, we will have ALL the remaining the TUTORIALS online, starting from Friday 14.01.22 (included).
+**NEWS (7.02.2022)**: If you are not able to register online  for the exam (either via Campus / ALMA) it is enough to come directly to the exam. Your grades will then be submitted directly to the University admin after correction and thus your participation confirmed by that. Hence, do not worry if you are not able to register online.
+
+NEWS (10.01.22): Given the current covid-19 situation, we will have ALL the remaining the TUTORIALS online, starting from Friday 14.01.22 (included).
 The zoom link is [here](https://zoom.us/j/98932703601), password: 140122.  
 
 
@@ -45,8 +47,6 @@ The zoom link is [here](https://zoom.us/j/98932703601), password: 140122.
 
 **Prerequisites**: all the previous knowledge required by the class Probabilistic Machine Learning applies here too. Nothing extra is needed, so if you are following that class, you are good to go here too.
 There will be some overlapping contents for sure between the two classes, although my class is more focused on the application side.
-
-For the EXAM, NEED to officially register  either via Campus / ALMA or written if the student cannot register online (closer to the exam date).  
 
 **Grading** : Maximum between 70\% written exam+30\% assignments and 100\% exam.   
 
